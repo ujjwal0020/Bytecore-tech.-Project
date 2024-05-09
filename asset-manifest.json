@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Bytecore-tech.-Project/static/css/main.1d1447a4.css",
+    "main.js": "/Bytecore-tech.-Project/static/js/main.0f12c4f0.js",
+    "static/media/7.jpg": "/Bytecore-tech.-Project/static/media/7.062c2039d40797e1c581.jpg",
+    "static/media/5.jpg": "/Bytecore-tech.-Project/static/media/5.86ab12b4913a9e8d12b2.jpg",
+    "static/media/6.jpg": "/Bytecore-tech.-Project/static/media/6.c6bc55a7d897096e9046.jpg",
+    "static/media/2.webp": "/Bytecore-tech.-Project/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/Bytecore-tech.-Project/index.html",
+    "main.1d1447a4.css.map": "/Bytecore-tech.-Project/static/css/main.1d1447a4.css.map",
+    "main.0f12c4f0.js.map": "/Bytecore-tech.-Project/static/js/main.0f12c4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d1447a4.css",
+    "static/js/main.0f12c4f0.js"
+  ]
+}
