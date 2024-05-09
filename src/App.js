@@ -11,7 +11,7 @@ import "./Styles/Home.scss";
 import "./Styles/Footer.scss";
 import "./Styles/Contact.scss";
 import "./Styles/Services.scss";
-// import "./Styles/mediaquery.scss";
+import "./Styles/mediaquery.scss";
 
 function App() {
   return (
